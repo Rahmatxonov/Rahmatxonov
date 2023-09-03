@@ -19,4 +19,4 @@ I work remotely and like to travel a lot.
 
 - 📍 &nbsp; Current Location: Tashkent province, Uzbekistan.
 - 📝 &nbsp; Ask me about anything, I am happy to help.
-- 📨 &nbsp; How to reach me: [@Rakhmatkhonov](https://instagram.com/Rahmatxonov1001/)
+- 📨 &nbsp; How to reach me: [@Rakhmatkhonov](https://instagram.com/rahmatxonov1001/)
