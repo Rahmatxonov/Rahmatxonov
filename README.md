@@ -1,2 +1,2 @@
 ### Hi, I'm  Xasanxon Rahmatxonov
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
+<img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47he4m03bw8hhodxykvq6iq16kv12czwvymrrf7n8y&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
