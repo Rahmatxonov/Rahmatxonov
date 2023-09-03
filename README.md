@@ -1,4 +1,3 @@
 ### Hi, I'm  Xasanxon Rahmatxonov
-<img src="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">
-
+<img src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed">
 
