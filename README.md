@@ -3,5 +3,5 @@ Web Development. <br>
 I work remotely and like to travel a lot.
 
 <a href="https://t.me/Rahmatxonov_ID13785">
-<img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png">
+<img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" width="25px">
 </a>
