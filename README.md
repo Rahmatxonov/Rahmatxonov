@@ -1,1 +1,1 @@
-### Hi, I'm  Khasankhon Rakhmatkhonov <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47he4m03bw8hhodxykvq6iq16kv12czwvymrrf7n8y&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px">
+### Hi, I'm  Khasankhon Rakhmatkhonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
