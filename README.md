@@ -14,7 +14,7 @@ I work remotely and like to travel a lot.
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="21px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="25px" height="22px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="25px" height="22px"></code>
-<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.logodownload.org%2Ffigma-logo%2F&psig=AOvVaw04IZFOIGKyLg9Ld088AZRr&ust=1693937017640000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLje8K_FkYEDFQAAAAAdAAAAABAI" width="25px" height="22px"></code>
+<code><img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png" width="25px" height="22px"></code>
 
 <br/>
 
