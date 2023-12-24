@@ -19,6 +19,7 @@ I work remotely and like to travel a lot.
 <code><img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="25px" height="25px"></code>
 <code><img src="https://www.svgrepo.com/show/452092/react.svg" width="25px" height="25px"></code>
 <code><img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" width="25px" height="25px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="25px" height="25px"></code>
 <br/>
 
 - 📍 &nbsp; Current Location: Tashkent province, Uzbekistan.
